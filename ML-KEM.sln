@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML-KEM", "ML-KEM\ML-KEM.csproj", "{A803E0FD-55AE-4E6D-B26B-46CE9BF9A340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML-KEM-Test", "ML-KEM-Test\ML-KEM-Test.csproj", "{D8E05DFA-22E7-47ED-9B31-6C4B5B48D246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A803E0FD-55AE-4E6D-B26B-46CE9BF9A340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A803E0FD-55AE-4E6D-B26B-46CE9BF9A340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A803E0FD-55AE-4E6D-B26B-46CE9BF9A340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A803E0FD-55AE-4E6D-B26B-46CE9BF9A340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E05DFA-22E7-47ED-9B31-6C4B5B48D246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E05DFA-22E7-47ED-9B31-6C4B5B48D246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E05DFA-22E7-47ED-9B31-6C4B5B48D246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E05DFA-22E7-47ED-9B31-6C4B5B48D246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
