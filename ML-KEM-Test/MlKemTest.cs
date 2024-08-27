@@ -1,6 +1,7 @@
 ﻿using System.Text.Json;
 using System.Text.Json.Serialization;
 using ML_KEM;
+using ML_KEM.Primitives;
 
 namespace ML_KEM_Test;
 

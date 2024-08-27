@@ -1,7 +1,6 @@
-﻿using ML_KEM.Primitives;
-using Waher.Security.SHA3;
+﻿using Waher.Security.SHA3;
 
-namespace ML_KEM;
+namespace ML_KEM.Primitives;
 
 internal static class Pke
 {

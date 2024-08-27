@@ -3,7 +3,7 @@ using Waher.Security.SHA3;
 using SHA3_256 = Waher.Security.SHA3.SHA3_256;
 using SHA3_512 = Waher.Security.SHA3.SHA3_512;
 
-namespace ML_KEM;
+namespace ML_KEM.Primitives;
 
 public static class MlKem
 {

@@ -1,4 +1,5 @@
 ﻿using ML_KEM;
+using ML_KEM.Primitives;
 
 namespace ML_KEM_Test;
 

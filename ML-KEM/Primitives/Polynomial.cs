@@ -1,7 +1,6 @@
 ﻿using System.Collections;
-using ML_KEM.Primitives;
 
-namespace ML_KEM;
+namespace ML_KEM.Primitives;
 
 internal class Polynomial
 {
